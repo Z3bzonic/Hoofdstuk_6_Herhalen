@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\PRO_For_doordenker.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\PRO_For_doordenker.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\PRO_For_doordenker.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\PRO_For_doordenker.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\PRO_For_doordenker.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\bin\Debug\net6.0\PRO_For_doordenker.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\bin\Debug\net6.0\PRO_For_doordenker.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\bin\Debug\net6.0\PRO_For_doordenker.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\bin\Debug\net6.0\PRO_For_doordenker.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\bin\Debug\net6.0\PRO_For_doordenker.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\PRO_For_doordenker.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\refint\PRO_For_doordenker.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\PRO_For_doordenker.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\PRO_For_doordenker.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\PRO_For_doordenker\obj\Debug\net6.0\ref\PRO_For_doordenker.dll
