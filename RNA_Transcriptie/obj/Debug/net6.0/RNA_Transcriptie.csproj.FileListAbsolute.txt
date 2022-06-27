@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\bin\Debug\net6.0\RNA_Transcriptie.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\bin\Debug\net6.0\RNA_Transcriptie.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\bin\Debug\net6.0\RNA_Transcriptie.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\bin\Debug\net6.0\RNA_Transcriptie.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\bin\Debug\net6.0\RNA_Transcriptie.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\RNA_Transcriptie.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\RNA_Transcriptie.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\RNA_Transcriptie.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\RNA_Transcriptie.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\RNA_Transcriptie.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\RNA_Transcriptie.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\refint\RNA_Transcriptie.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\RNA_Transcriptie.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\RNA_Transcriptie.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\RNA_Transcriptie\obj\Debug\net6.0\ref\RNA_Transcriptie.dll
