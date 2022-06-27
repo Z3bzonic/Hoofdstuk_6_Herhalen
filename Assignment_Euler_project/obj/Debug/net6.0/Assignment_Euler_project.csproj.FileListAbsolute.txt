@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\bin\Debug\net6.0\Assignment_Euler_project.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\bin\Debug\net6.0\Assignment_Euler_project.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\bin\Debug\net6.0\Assignment_Euler_project.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\bin\Debug\net6.0\Assignment_Euler_project.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\bin\Debug\net6.0\Assignment_Euler_project.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\Assignment_Euler_project.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\Assignment_Euler_project.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\Assignment_Euler_project.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\Assignment_Euler_project.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\Assignment_Euler_project.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\Assignment_Euler_project.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\refint\Assignment_Euler_project.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\Assignment_Euler_project.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\Assignment_Euler_project.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Euler_project\obj\Debug\net6.0\ref\Assignment_Euler_project.dll
