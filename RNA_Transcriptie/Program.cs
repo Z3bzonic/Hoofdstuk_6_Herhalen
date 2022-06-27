@@ -34,4 +34,4 @@ do {
 // in hindsight had ik beter geen do while gebruikt omdat ELKE mogelijkheid van de switch case ook moet herhaald worden
 // indien je BV U niet specifieert zal de A onthouden worden en wordt de input overgeslagen
 // lijkt me een bug?? maar kan het niet oplossen door een waarde reset want de invoer
-// MOET dan voorkomen in de while 
+// MOET dan voorkomen in de while en zo kan je U als foute invoer doen
