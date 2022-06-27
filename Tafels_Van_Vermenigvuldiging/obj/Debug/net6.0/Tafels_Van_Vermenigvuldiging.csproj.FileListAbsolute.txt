@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\bin\Debug\net6.0\Tafels_Van_Vermenigvuldiging.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\bin\Debug\net6.0\Tafels_Van_Vermenigvuldiging.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\bin\Debug\net6.0\Tafels_Van_Vermenigvuldiging.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\bin\Debug\net6.0\Tafels_Van_Vermenigvuldiging.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\bin\Debug\net6.0\Tafels_Van_Vermenigvuldiging.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\Tafels_Van_Vermenigvuldiging.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\Tafels_Van_Vermenigvuldiging.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\Tafels_Van_Vermenigvuldiging.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\Tafels_Van_Vermenigvuldiging.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\Tafels_Van_Vermenigvuldiging.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\Tafels_Van_Vermenigvuldiging.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\refint\Tafels_Van_Vermenigvuldiging.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\Tafels_Van_Vermenigvuldiging.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\Tafels_Van_Vermenigvuldiging.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Tafels_Van_Vermenigvuldiging\obj\Debug\net6.0\ref\Tafels_Van_Vermenigvuldiging.dll
