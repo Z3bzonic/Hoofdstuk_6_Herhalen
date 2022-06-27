@@ -21,7 +21,9 @@ do
         }
     }
     Array.Clear(uitkomsten, 0, 10);
+    //debug
     Console.WriteLine(isCijfer);
+    // einde debug
 } while ((keuze != 0)&&(isCijfer=true));
 
 if (isCijfer == false)
