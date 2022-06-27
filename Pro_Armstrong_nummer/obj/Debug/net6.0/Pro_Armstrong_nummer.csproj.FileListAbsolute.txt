@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\bin\Debug\net6.0\Pro_Armstrong_nummer.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\bin\Debug\net6.0\Pro_Armstrong_nummer.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\bin\Debug\net6.0\Pro_Armstrong_nummer.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\bin\Debug\net6.0\Pro_Armstrong_nummer.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\bin\Debug\net6.0\Pro_Armstrong_nummer.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\Pro_Armstrong_nummer.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\Pro_Armstrong_nummer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\Pro_Armstrong_nummer.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\Pro_Armstrong_nummer.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\Pro_Armstrong_nummer.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\Pro_Armstrong_nummer.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\refint\Pro_Armstrong_nummer.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\Pro_Armstrong_nummer.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\Pro_Armstrong_nummer.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Pro_Armstrong_nummer\obj\Debug\net6.0\ref\Pro_Armstrong_nummer.dll
