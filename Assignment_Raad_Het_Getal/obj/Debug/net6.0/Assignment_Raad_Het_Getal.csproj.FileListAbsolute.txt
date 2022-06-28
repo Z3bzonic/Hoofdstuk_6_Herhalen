@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\bin\Debug\net6.0\Assignment_Raad_Het_Getal.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\bin\Debug\net6.0\Assignment_Raad_Het_Getal.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\bin\Debug\net6.0\Assignment_Raad_Het_Getal.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\bin\Debug\net6.0\Assignment_Raad_Het_Getal.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\bin\Debug\net6.0\Assignment_Raad_Het_Getal.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\Assignment_Raad_Het_Getal.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\Assignment_Raad_Het_Getal.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\Assignment_Raad_Het_Getal.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\Assignment_Raad_Het_Getal.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\Assignment_Raad_Het_Getal.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\Assignment_Raad_Het_Getal.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\refint\Assignment_Raad_Het_Getal.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\Assignment_Raad_Het_Getal.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\Assignment_Raad_Het_Getal.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Raad_Het_Getal\obj\Debug\net6.0\ref\Assignment_Raad_Het_Getal.dll
