@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\bin\Debug\net6.0\Assignment_Steen_Schaar_Papier.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\bin\Debug\net6.0\Assignment_Steen_Schaar_Papier.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\bin\Debug\net6.0\Assignment_Steen_Schaar_Papier.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\bin\Debug\net6.0\Assignment_Steen_Schaar_Papier.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\bin\Debug\net6.0\Assignment_Steen_Schaar_Papier.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\Assignment_Steen_Schaar_Papier.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\Assignment_Steen_Schaar_Papier.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\Assignment_Steen_Schaar_Papier.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\Assignment_Steen_Schaar_Papier.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\Assignment_Steen_Schaar_Papier.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\Assignment_Steen_Schaar_Papier.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\refint\Assignment_Steen_Schaar_Papier.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\Assignment_Steen_Schaar_Papier.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\Assignment_Steen_Schaar_Papier.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment_Steen_Schaar_Papier\obj\Debug\net6.0\ref\Assignment_Steen_Schaar_Papier.dll
