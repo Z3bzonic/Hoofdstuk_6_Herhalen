@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\bin\Debug\net6.0\Assignment Boekhouder.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\bin\Debug\net6.0\Assignment Boekhouder.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\bin\Debug\net6.0\Assignment Boekhouder.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\bin\Debug\net6.0\Assignment Boekhouder.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\bin\Debug\net6.0\Assignment Boekhouder.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\Assignment Boekhouder.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\Assignment Boekhouder.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\Assignment Boekhouder.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\Assignment Boekhouder.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\Assignment Boekhouder.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\Assignment Boekhouder.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\refint\Assignment Boekhouder.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\Assignment Boekhouder.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\Assignment Boekhouder.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Assignment Boekhouder\obj\Debug\net6.0\ref\Assignment Boekhouder.dll
