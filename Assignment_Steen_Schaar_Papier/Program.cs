@@ -8,11 +8,11 @@ Random dice = new Random();
 int wapen= 0;
 int computerKeuze = 0;
 
-while ((scoreComputer != 10) || (scoreSpeler != 10))
+while ((scoreComputer < 11) && (scoreSpeler < 11))
 {
     Console.WriteLine("Kies Blad(0), steen(1) of schaar (2)");
     wapen = int.Parse(Console.ReadLine());
-    computerKeuze = (int)dice.Next(0, 2);
+    computerKeuze = dice.Next(0, 2);
     if (wapen != computerKeuze)
     {
         switch (wapen)
@@ -64,6 +64,20 @@ while ((scoreComputer != 10) || (scoreSpeler != 10))
 
     }
     pogingen++;
+    Console.WriteLine($"Computerscore: {scoreComputer} ");
+    Console.Write($"Spelerscore : {scoreSpeler} ");
+    Console.WriteLine();
 }
 
-
+if (scoreSpeler > scoreComputer)
+{
+    Console.WriteLine();
+    Console.WriteLine($"De speler is gewonnen met {scoreSpeler}");
+    Console.WriteLine();
+}
+else
+{
+    Console.WriteLine();
+    Console.WriteLine($"De computer is gewonnen met {scoreComputer}");
+    Console.WriteLine();
+}
