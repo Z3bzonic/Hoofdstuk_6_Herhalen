@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\bin\Debug\net6.0\Extra_Oefening_Herhalingen.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\bin\Debug\net6.0\Extra_Oefening_Herhalingen.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\bin\Debug\net6.0\Extra_Oefening_Herhalingen.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\bin\Debug\net6.0\Extra_Oefening_Herhalingen.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\bin\Debug\net6.0\Extra_Oefening_Herhalingen.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\Extra_Oefening_Herhalingen.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\Extra_Oefening_Herhalingen.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\Extra_Oefening_Herhalingen.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\Extra_Oefening_Herhalingen.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\Extra_Oefening_Herhalingen.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\Extra_Oefening_Herhalingen.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\refint\Extra_Oefening_Herhalingen.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\Extra_Oefening_Herhalingen.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\Extra_Oefening_Herhalingen.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Extra_Oefening_Herhalingen\obj\Debug\net6.0\ref\Extra_Oefening_Herhalingen.dll
