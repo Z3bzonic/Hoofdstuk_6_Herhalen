@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\bin\Debug\net6.0\Become_Neo.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\bin\Debug\net6.0\Become_Neo.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\bin\Debug\net6.0\Become_Neo.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\bin\Debug\net6.0\Become_Neo.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\bin\Debug\net6.0\Become_Neo.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\Become_Neo.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\Become_Neo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\Become_Neo.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\Become_Neo.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\Become_Neo.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\Become_Neo.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\refint\Become_Neo.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\Become_Neo.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\Become_Neo.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\Become_Neo\obj\Debug\net6.0\ref\Become_Neo.dll
