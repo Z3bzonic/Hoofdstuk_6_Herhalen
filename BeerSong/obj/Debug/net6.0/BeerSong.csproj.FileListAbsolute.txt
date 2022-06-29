@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\bin\Debug\net6.0\BeerSong.exe
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\bin\Debug\net6.0\BeerSong.deps.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\bin\Debug\net6.0\BeerSong.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\bin\Debug\net6.0\BeerSong.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\bin\Debug\net6.0\BeerSong.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\BeerSong.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\BeerSong.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\BeerSong.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\BeerSong.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\BeerSong.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\BeerSong.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\refint\BeerSong.dll
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\BeerSong.pdb
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\BeerSong.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_6_Herhalen\BeerSong\obj\Debug\net6.0\ref\BeerSong.dll
